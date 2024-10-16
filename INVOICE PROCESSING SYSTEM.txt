@@ -1,0 +1,18 @@
+>> INVOICE PROCESSING SYSTEM 
+
+1. Create a folder [InvoiceProcessingSystem] >> cmd >> code . [open in vscode]
+2. Open terminal, Type - $ npx create-react-app client >> enter
+3. Open Spring Intializr in brower >>
+	project - maven
+	language - java
+	springboot - latest version
+	project metadata - 
+		group - com.invoiceprocessing
+		artifact - server
+	packaging - jar
+	java - 17
+	Dependencies - [add dependencies]
+		* Spring Web
+		* Spring Data JPA
+		* MySQL Driver
+	>> Click Generate
