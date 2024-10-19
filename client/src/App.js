@@ -5,8 +5,6 @@ import Header from './components/header';
 function App() {
   return (
     <div className="App">
-      Hello
-      <Header/>
       <Home />
     </div>
   );
